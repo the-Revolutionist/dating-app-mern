@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "dating-app-mern-50380",
     "public": "build",
     "ignore": [
       "firebase.json",
